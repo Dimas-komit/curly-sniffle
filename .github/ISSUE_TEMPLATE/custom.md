@@ -1,12 +1,10 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: Ieieiejehei
+labels: bug, enhancement
+assignees: Dimas-commits
 
----🤡😘😍
+---
 
-.,yi
-
-
+Uwiui8672i
